@@ -1,0 +1,19 @@
+{
+  "name": "back_quizz",
+  "version": "1.0.0",
+  "description": "du dev back",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Perrine-B/back_quizz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Perrine-B/back_quizz/issues"
+  },
+  "homepage": "https://github.com/Perrine-B/back_quizz#readme"
+}
